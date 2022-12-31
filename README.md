@@ -44,4 +44,4 @@ Use it like this
 less system/api.lua
 ```
 
-Use ArrowUp/Down for scroll to text and q for quit.
+Use ArrowUp/Down for scroll the text and q for quit.
