@@ -33,7 +33,7 @@ save_object("system/less.lua", [[
             print(lines[i + current_line], 30, (i + 1) * 12, 3)
     end
     rectfill(0, 0, 480, 8, 9)
-    print("\125 Use ArrowUp/Down '" .. path .. "'" .. #lines, 0, 0, 2)
+    print("Use ArrowUp/Down. Q for quit.'" .. path .. "'" .. #lines, 0, 0, 2)
 end
 ]])
 ```
